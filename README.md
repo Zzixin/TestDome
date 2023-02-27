@@ -2,4 +2,6 @@
 
 Java and JavaScript sample questions
 
-- <b>Java</b>: [codes](/java/src/)
+- <b>TestDome Java Questions</b>: [codes](/java/src/)
+
+- <b>TestDome JavaScript Questions</b>: [codes](/JavaScript/)
